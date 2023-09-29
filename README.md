@@ -1,12 +1,12 @@
-## Requirements
+## Install
+
+### Requirements
 
 1. Perl - https://www.perl.org
 2. DIAMOND - https://github.com/bbuchfink/diamond
 3. minimap2 - https://github.com/lh3/minimap2
 4. Linux commands: sort, gzip, wget - https://www.gnu.org/software/wget/
 
-
-## Install
 
 If you already have Git (https://git-scm.com) installed, you can get the latest development version using Git.
 
